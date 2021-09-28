@@ -1,4 +1,4 @@
-# NeuronskeMreze
+
 
 Project done for Neural Networks course.
 
